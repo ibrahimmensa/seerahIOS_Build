@@ -1,0 +1,48 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="controlHandler">
+			<method name="onClickNext"/>
+			<method name="onClickPlay"/>
+			<method name="onClickPrevious"/>
+		</type>
+		<type fullname="MainMenuManager">
+			<method name="onClickOpenAI"/>
+			<method name="onClickOpenAI"/>
+			<method name="onClickOpenAI"/>
+			<method name="onClickOpenAI"/>
+			<method name="OnClickWhisper"/>
+			<method name="OnClickWhisper"/>
+			<method name="OnClickWhisper"/>
+			<method name="OnClickWhisper"/>
+		</type>
+		<type fullname="OpenAI.ChatGPT">
+			<method name="onClickBack"/>
+			<method name="SendReply"/>
+		</type>
+		<type fullname="SplashHandler">
+			<method name="onClickSkip"/>
+			<method name="onClickSkip"/>
+			<method name="onClickSkip"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>
