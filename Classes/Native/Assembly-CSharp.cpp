@@ -449,7 +449,7 @@ IL2CPP_EXTERN_C String_t* _stringLiteral04CF5DCC9299F6A635E80650A8A05DBAD6182371
 IL2CPP_EXTERN_C String_t* _stringLiteral2386E77CF610F786B06A91AF2C1B3FD2282D2745;
 IL2CPP_EXTERN_C String_t* _stringLiteral42DC18D5482A9265FB2B285DA7CBF657A4D1E816;
 IL2CPP_EXTERN_C String_t* _stringLiteral54E6A56386072FAEC10025F380D0CC554BAC0758;
-IL2CPP_EXTERN_C String_t* _stringLiteral5A47E083F06FD0A81A1500E66103391CF37106AE;
+IL2CPP_EXTERN_C String_t* _stringLiteral630365A1428284D8409B41129255F2A889392EAB;
 IL2CPP_EXTERN_C String_t* _stringLiteral6B181C4DCAEFCD50EE68E94CD195AE3CE3CE179F;
 IL2CPP_EXTERN_C String_t* _stringLiteral7CE10074DA4EDD547E37EFFF41398CD6AD4437FE;
 IL2CPP_EXTERN_C String_t* _stringLiteral8BAB4EFCC45B11BCA22CF21741FEA17F12C04BCC;
@@ -11371,7 +11371,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CSendReplyU3Ed__13_MoveNext_mE73F02A2E
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&TaskAwaiter_1_get_IsCompleted_m6455141A98E9D8015C7FA26F2EB89429C266ABEC_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Task_1_GetAwaiter_m6860B74B2491ADF920B317FFEE4967F8D00D8D4C_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral00B28FF06B788B9B67C6B259800F404F9F3761FD);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral5A47E083F06FD0A81A1500E66103391CF37106AE);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral630365A1428284D8409B41129255F2A889392EAB);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralB9EAA8CF89E736A6EF2B3B248DC522A1230B5A72);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralD3992DF679A3EF8B96232992FF89A2B1F1DB5534);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralDA39A3EE5E6B4B0D3255BFEF95601890AFD80709);
@@ -11410,12 +11410,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CSendReplyU3Ed__13_MoveNext_mE73F02A2E
 			}
 		}
 		{
-			// inputField.text = "Tell The Story of Prophet Musa according to Islamic History";
+			// inputField.text = "Tell The detailed Story of Prophet Musa according to Sahi Bukhari";
 			ChatGPT_tC5D14B68840117D2437B88B00E930C02AF73C573* L_3 = V_1;
 			NullCheck(L_3);
 			InputField_tABEA115F23FBD374EBE80D4FAC1D15BD6E37A140* L_4 = L_3->___inputField_4;
 			NullCheck(L_4);
-			InputField_set_text_m28B1C806BBCAC44F3ACCDC3B550509CA0C7D257F(L_4, _stringLiteral5A47E083F06FD0A81A1500E66103391CF37106AE, NULL);
+			InputField_set_text_m28B1C806BBCAC44F3ACCDC3B550509CA0C7D257F(L_4, _stringLiteral630365A1428284D8409B41129255F2A889392EAB, NULL);
 			// var newMessage = new ChatMessage()
 			// {
 			//     Role = "user",
